@@ -1,0 +1,22 @@
+{
+  "name": "web_service_nodejs_simples",
+  "version": "1.0.0",
+  "description": "Um Web Service simples feito com Node.JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stenioprofessor/web_service_nodejs_simples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stenioprofessor/web_service_nodejs_simples/issues"
+  },
+  "homepage": "https://github.com/stenioprofessor/web_service_nodejs_simples#readme",
+  "dependencies": {
+    "node": "^16.17.0"
+  }
+}
